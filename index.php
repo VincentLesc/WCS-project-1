@@ -1,5 +1,5 @@
 <?php
-include 'navbar.html';
+require 'navbar.html';
 
 
-include 'footer.html';
+require 'footer.html';

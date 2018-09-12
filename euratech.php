@@ -1,10 +1,39 @@
 <?php
-include 'navbar.html';
+require 'navbar.html';
 
 ?>
     <section class="container">
-        <div class="row">
-            
+        <div class="row p-4">
+            <h2>Title Euratechnologie</h2>
+        </div>
+        <div class="row p-3">
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="https://via.placeholder.com/1400x500" alt="First slide">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta est a nunc fermentum imperdiet. Morbi in
+                         ex sed neque convallis accumsan id nec ante. Donec condimentum neque justo, et facilisis justo pharetra eu.</p>
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="https://via.placeholder.com/1400x500" alt="Second slide">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta est a nunc fermentum imperdiet. Morbi in
+                         ex sed neque convallis accumsan id nec ante. Donec condimentum neque justo, et facilisis justo pharetra eu.</p>
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="https://via.placeholder.com/1400x500" alt="Third slide">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta est a nunc fermentum imperdiet. Morbi in
+                         ex sed neque convallis accumsan id nec ante. Donec condimentum neque justo, et facilisis justo pharetra eu.</p>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
         </div>
     </section>
 
@@ -51,7 +80,7 @@ include 'navbar.html';
         <div class="row p-4">
             <h2>Find us in Euratech !</h2>
         </div>
-        <div class="row pb-4 justify-content-between">
+        <div class="row pb-4 justify-content-between mb-3">
             <div class="col-7">
                 <img src="https://via.placeholder.com/550x250" alt="" class="img-fluid">
             </div>
@@ -68,4 +97,4 @@ include 'navbar.html';
     </section>
 
 <?php
-include 'footer.html';
+require 'footer.html';
