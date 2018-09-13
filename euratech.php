@@ -3,7 +3,7 @@ require 'navbar.html';
 
 ?>
     <section class="container">
-        <div class="row p-4">
+        <div class="row p-4 justify-content-center">
             <h2>Title Euratechnologie</h2>
         </div>
         <div class="row p-3">
@@ -39,7 +39,7 @@ require 'navbar.html';
 
     <hr>
     <section class="container">
-        <div class="row p-4">
+        <div class="row p-4 justify-content-center">
             <h2>Events</h2>
         </div>
         <div class="row justify-content-between pb-4">
@@ -77,19 +77,20 @@ require 'navbar.html';
     </section>
     <hr>
     <section class="container">
-        <div class="row p-4">
+        <div class="row p-4 justify-content-center">
             <h2>Find us in Euratech !</h2>
         </div>
         <div class="row pb-4 justify-content-between mb-3">
-            <div class="col-7">
+            <div class="col-md-7">
                 <img src="https://via.placeholder.com/550x250" alt="" class="img-fluid">
             </div>
-            <div class="col-5">
+            <div class="col-md-5">
                 <div class="card h-100">
-                    <div class="card-header">Header</div>
+                    <div class="card-header">Address</div>
                     <div class="card-body text-dark">
-                        <h5 class="card-title">Dark card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title">Wild Code School</h5>
+                        <p class="card-text"><address>Euratechnologies<br/>
+                            4 avenue des Saules, 59160 Lomme</address></p>
                     </div>
                 </div>
             </div>
