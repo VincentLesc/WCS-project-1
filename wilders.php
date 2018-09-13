@@ -94,15 +94,15 @@
                         </div>
                         <label class="ml-2">Lorem ipsum dolor sit amet ?</label>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer1q1" id="exampleRadios1" value="option1" checked>
+                            <input class="form-check-input" type="radio" name="answerq1" id="exampleRadios1" value="option1" checked>
                             <label class="form-check-label" for="exampleRadios1">Answer 1</label>
                         </div>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer2q1" id="exampleRadios2" value="option2">
+                            <input class="form-check-input" type="radio" name="answerq1" id="exampleRadios2" value="option2">
                             <label class="form-check-label" for="exampleRadios2">Answer 2</label>
                         </div>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer3q1" id="exampleRadios3" value="option3">
+                            <input class="form-check-input" type="radio" name="answerq1" id="exampleRadios3" value="option3">
                             <label class="form-check-label" for="exampleRadios3">Answer 3</label>
                         </div>
                     </div>
@@ -112,15 +112,15 @@
                         </div>
                         <label class="ml-2">Lorem ipsum dolor sit amet ?</label>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer1q2" id="example2Radios1" value="option1" checked>
+                            <input class="form-check-input" type="radio" name="answerq2" id="example2Radios1" value="option1" checked>
                             <label class="form-check-label" for="example2Radios1">Answer 1</label>
                         </div>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer2q2" id="example2Radios2" value="option2">
+                            <input class="form-check-input" type="radio" name="answerq2" id="example2Radios2" value="option2">
                             <label class="form-check-label" for="example2Radios2">Answer 2</label>
                         </div>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer3q2" id="example2Radios3" value="option3">
+                            <input class="form-check-input" type="radio" name="answerq2" id="example2Radios3" value="option3">
                             <label class="form-check-label" for="example2Radios3">Answer 3</label>
                         </div>
                     </div>
@@ -130,16 +130,16 @@
                         </div>
                         <label class="ml-2">Lorem ipsum dolor sit amet ?</label>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer1q3" id="example3Radios1" value="option1" checked>
-                            <label class="form-check-label" for="exampleRadios1">Answer 1</label>
+                            <input class="form-check-input" type="radio" name="answerq3" id="example3Radios1" value="option1" checked>
+                            <label class="form-check-label" for="example3Radios1">Answer 1</label>
                         </div>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer2q3" id="example3Radios2" value="option2">
-                            <label class="form-check-label" for="exampleRadios2">Answer 2</label>
+                            <input class="form-check-input" type="radio" name="answerq3" id="example3Radios2" value="option2">
+                            <label class="form-check-label" for="example3Radios2">Answer 2</label>
                         </div>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer3q3" id="example3Radios3" value="option3">
-                            <label class="form-check-label" for="exampleRadios3">Answer 3</label>
+                            <input class="form-check-input" type="radio" name="answerq3" id="example3Radios3" value="option3">
+                            <label class="form-check-label" for="example3Radios3">Answer 3</label>
                         </div>
                     </div>
                     <div class="card mb-3 p-3 ml-lg-1 ml-4">
@@ -148,16 +148,16 @@
                         </div>
                         <label class="ml-2">Lorem ipsum dolor sit amet ?</label>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer1q4" id="example4Radios1" value="option1" checked>
-                            <label class="form-check-label" for="exampleRadios1">Answer 1</label>
+                            <input class="form-check-input" type="radio" name="answerq4" id="example4Radios1" value="option1" checked>
+                            <label class="form-check-label" for="example4Radios1">Answer 1</label>
                         </div>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer2q4" id="example4Radios2" value="option2">
-                            <label class="form-check-label" for="exampleRadios2">Answer 2</label>
+                            <input class="form-check-input" type="radio" name="answerq4" id="example4Radios2" value="option2">
+                            <label class="form-check-label" for="example4Radios2">Answer 2</label>
                         </div>
                         <div class="form-check mt-2 ml-2">
-                            <input class="form-check-input" type="radio" name="answer3q4" id="example4Radios3" value="option3">
-                            <label class="form-check-label" for="exampleRadios3">Answer 3</label>
+                            <input class="form-check-input" type="radio" name="answerq4" id="example4Radios3" value="option3">
+                            <label class="form-check-label" for="example4Radios3">Answer 3</label>
                         </div>
                     </div>         
                 </div>
