@@ -13,3 +13,7 @@ Creating the WCS website, using humor.
 Techs :
 - PHP
 - JQuery
+- JavaScript
+- HTML
+- CSS
+- Bootstrap 4
