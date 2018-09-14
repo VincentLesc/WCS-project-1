@@ -1,7 +1,7 @@
 /*Guest-book*/
 
 .customer{
-	background-color:black;
+	border:1px ridge lightgrey;
 }
 
 .comment-body{

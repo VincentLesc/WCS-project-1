@@ -8,7 +8,7 @@
     <link href="style.css" rel="stylesheet">
 </head>
 <body>
-<?php require 'header.html' ?>
+<?php require 'navbar.html' ?>
 <section id="messages">
     <div class="container">
         <div class="comment">
