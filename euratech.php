@@ -11,7 +11,7 @@
 <?php require 'navbar.html'; ?>
     <section class="container">
         <div class="row p-4 justify-content-center">
-            <h2>Title Euratechnologie</h2>
+            <h2>Title Euratechnologies</h2>
         </div>
         <div class="row p-3">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -96,8 +96,7 @@
                     <div class="card-header">Address</div>
                     <div class="card-body text-dark">
                         <h5 class="card-title">Wild Code School</h5>
-                        <p class="card-text"><address>Euratechnologies<br/>
-                            4 avenue des Saules, 59160 Lomme</address></p>
+                        <p class="card-text"><address>Euratechnologies<br/>4 avenue des Saules, 59160 Lomme</address>
                     </div>
                 </div>
             </div>
