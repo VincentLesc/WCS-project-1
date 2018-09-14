@@ -19,7 +19,7 @@
         <div class="col"></div>
     
         <div class="col-6">
-            <form style="margin:10% 0 0 0" class="needs-validation" role="form" method="post" action="form_script.php" novalidate>
+            <form style="margin:10% 0 0 0" class="needs-validation mb-3" role="form" method="post" action="form_script.php" novalidate>
                 <div class="form-group row">
                     <label for="userName" class="col-sm-2 col-form-label" style="padding-top: 0px !important;padding-bottom: 0px !important;"><img src="Images/user.png"></label>
                 <div class="col-sm-10">
