@@ -13,6 +13,22 @@
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
+	<head>
+		<meta charset="utf-8">
+		<title>WildCodeSchool</title>
+		<link rel="stylesheet" media="screen" type="text/css" href="./style.css"/>
+
+		<!-- meta -->
+		<meta name="wildcodeschool" content="">
+		<meta name="Fleur Castel" content="">
+
+		<!-- mon icon -->
+		<link rel="shortcut icon" href="favicon.ico">
+
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"></script>
+
+	</head>
+
 
 <body>
 
