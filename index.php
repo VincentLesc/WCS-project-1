@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <title>WildCodeSchool</title>
@@ -13,23 +11,6 @@
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
-	<head>
-		<meta charset="utf-8">
-		<title>WildCodeSchool</title>
-		<link rel="stylesheet" media="screen" type="text/css" href="./style.css"/>
-
-		<!-- meta -->
-		<meta name="wildcodeschool" content="">
-		<meta name="Fleur Castel" content="">
-
-		<!-- mon icon -->
-		<link rel="shortcut icon" href="favicon.ico">
-
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"></script>
-
-	</head>
-
-
 <body>
 
 <!-- Navbar -->
@@ -85,10 +66,10 @@
         <img class="home_image float-lg-left ml-lg-3 mr-lg-3" src="https://via.placeholder.com/400x400" alt="Home presentation" id="presentationimg">
         <p class="text-justify" id="presentationtext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. <br/>
             Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. <br/>
-            Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. <br/>
+            Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. <br/>
             Maecenas adipiscing ante non diam sodales hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. <br/>Pellentesque congue. Ut in risus volutpat libero pharetra tempor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.</p>
         <div class="text-center">
-            <button id="button" type="button" class="btn btn-outline-dark btn btn-primary btn-lg"><a href="#">Contact us</a></button>
+            <button id="button" type="button" class="btn btn-outline-dark btn btn-primary btn-lg"><a href="form.php">Contact us</a></button>
         </div>
         <h2 class="contact_text"><strong>You want to join Wild Code School army ?<br/>
                 Click on the button above, fill in the informations<br/> and discover the joy of web development !</strong></h2>
