@@ -1,4 +1,4 @@
-<!doctype= html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -112,8 +112,8 @@
                     <input type="text" name="country" id="country" class="form-control">
                 </div>
                 <div class="col-12 form-group">
-                    <label for="avatar">Avatar</label>
                     <div id="avatar" class="form-control">
+                        <label>Avatar</label>
                         <div class="row">
                             <div class="col-12 col-lg-3 gif">
                                 <input class="form-check-input" type="radio" id="img_1" name="img">
