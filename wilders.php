@@ -6,25 +6,25 @@
                 <img src="https://via.placeholder.com/1300x550" alt="Banniere img" class="img-fluid"/>
             </div>
             <div class="row text-center justify-content-center">
-            <h1 class="m-3" id="wilders">Wilders</h1>
+                <h1 class="m-3" id="wilders">Wilders</h1>
             </div>
             <div class="row">
                 <div class="col-md-5">
-            <img src="https://via.placeholder.com/550x300" alt="Img" class="img-fluid float-lg-right p-2">
+                    <img src="https://via.placeholder.com/550x300" alt="Img" class="img-fluid float-lg-right p-2">
                 </div>
                 <div class="col-md-7">
-            <p class="text-justify">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor,
-                dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
-                Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie,
-                enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper.
-                Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue.
-                Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue.
-                Proin porttitor, orci nec nonummy molestie,
-                enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper.
-                Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue.
-                Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue.
-            </p>
+                    <p class="text-justify">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor,
+                        dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.
+                        Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie,
+                        enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper.
+                        Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue.
+                        Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue.
+                        Proin porttitor, orci nec nonummy molestie,
+                        enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper.
+                        Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue.
+                        Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue.
+                    </p>
                 </div>
             </div>
         </div>
