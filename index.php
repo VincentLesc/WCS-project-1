@@ -5,7 +5,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>WildCodeSchool</title>
-		<link rel="stylesheet" media="screen" type="text/css" href="./index.css"/>
+		<link rel="stylesheet" media="screen" type="text/css" href="./style.css"/>
 
 		<!-- meta -->
 		<meta name="wildcodeschool" content="">
