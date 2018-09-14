@@ -1,0 +1,22 @@
+.customer{
+	background-color:black;
+}
+.comment-body{
+	border: 1px solid black;
+    background-color:darkgrey;
+    color:white;
+}
+#avatar img{
+	width:100%;
+	padding:2%
+}
+input[type="radio"]{
+    opacity:1;
+}
+
+#messages .comment{
+    margin-top:4%;
+}
+.gif input:checked img{
+    padding: 0%;
+}
