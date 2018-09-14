@@ -1,3 +1,28 @@
+/*Guest-book*/
+
+.customer{
+	border:1px ridge lightgrey;
+}
+
+.comment-body{
+	border: 1px solid black;
+    background-color:darkgrey;
+    color:white;
+}
+
+#avatar img{
+	width:100%;
+	padding:2%
+}
+
+input[type="radio"]{
+    opacity:1;
+}
+
+#messages .comment{
+    margin-top:4%;
+}
+
 /* Slider */
 
 .carousel img {
@@ -13,7 +38,7 @@
 }
 
 .container {
-	pagging-top: 3%;
+	padding-top: 3%;
 }
 
 #presentationtext {
@@ -33,8 +58,3 @@
 }
 
 /* Footer */
-
-#footer {
-	background-color: grey;
-	max-width: 100%;
-}
