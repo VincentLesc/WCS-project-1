@@ -10,17 +10,17 @@
     color:white;
 }
 
-#avatar img{
-	width:100%;
-	padding:2%
-}
-
-input[type="radio"]{
-    opacity:1;
-}
 
 #messages .comment{
     margin-top:4%;
+}
+
+#submitGuestBook li{
+	max-width:29%;
+}
+
+#submitGuestBook img{
+	max-width:100%;
 }
 
 /* Slider */
