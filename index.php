@@ -70,7 +70,7 @@
     <h1 class="sectiontitle"><strong>Welcome to Dark Code School !</strong></h1>
 
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="float-lg-left ml-lg-3 mr-lg-3">
                 <img class="home_image" src="https://via.placeholder.com/400x400" alt="Home presentation" id="presentationimg">
                 <p class="text-justify mr-3" id="presentationtext">The school is based in Euratechnologies in Lille, a place where start-ups and big numeric companies meet together.<br/>
