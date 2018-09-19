@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="wildcodeschool" content="">
-	<meta name="Maureen Vinchent" content="">
+    <meta name="description" content="Wild Code School humoristic website">
+	<meta name="author" content="Maureen Vinchent">
 	<link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <title>Wild Code School - Instructors</title>
@@ -20,7 +20,7 @@
                 <!-- Olivier -->
                 <div class="col-md-4">
                     <div class="card mb-3">
-                        <img class="card-img-top" src="https://via.placeholder.com/150x150" alt="Card image cap">
+                        <img class="card-img-top" src="photos/olivier.jpg" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Olivier</h5>
                             <p class="card-text text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
