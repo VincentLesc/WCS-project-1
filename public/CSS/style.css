@@ -1,25 +1,24 @@
 /*Guest-book*/
 
-.customer{
+.customer {
 	border:1px ridge lightgrey;
 }
 
-.comment-body{
+.comment-body {
 	border: 1px solid black;
-    background-color:darkgrey;
-    color:white;
+	background-color:darkgrey;
+	color:white;
 }
 
-
-#messages .comment{
-    margin-top:4%;
+#messages .comment {
+	margin-top:4%;
 }
 
-#submitGuestBook li{
+#submitGuestBook li {
 	max-width:29%;
 }
 
-#submitGuestBook img{
+#submitGuestBook img {
 	max-width:100%;
 }
 
@@ -33,8 +32,9 @@
 /* Home presentation */
 
 .sectiontitle {
-	padding-top: 3%;
+	padding-top: 4%;
 	text-align: center;
+	padding-bottom: 3%;
 }
 
 #home_presentation_section .container {
@@ -50,31 +50,39 @@
 	padding-top: 2%;
 }
 
-
 .contact_text {
 	text-align: center;
 	padding-top: 3%;
-	padding-bottom: 4%;
+	padding-bottom: 5%;
+}
+
+.home_image {
+	width: 100%;
+}
+
+#home_page_button {
+	margin-top: 6%;
+	margin-bottom: 4%;
 }
 
 /* Police */
 
 @font-face {
-        font-family : Starjhol;
-        src : url(../Fonts/Starjhol.ttf);
+	font-family : Starjhol;
+	src : url(../Fonts/Starjhol.ttf);
 }
- 
+
 h3 {
-        font-family : Starjhol, sans-serif;
+	font-family : Starjhol, sans-serif;
 }
 
 @font-face {
-        font-family : Starjedi;
-        src : url(../Fonts/Starjedi.ttf);
+	font-family : Starjedi;
+	src : url(../Fonts/Starjedi.ttf);
 }
- 
+
 h2 {
-        font-family : Starjedi, sans-serif;
+	font-family : Starjedi, sans-serif;
 }
 
 /* Footer */
