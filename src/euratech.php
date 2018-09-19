@@ -24,14 +24,14 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100" src="../public/Images/euratech/slidereura1.jpg" alt="First slide">
-                        <p class="d-none d-md-block w-100 text-justify">Will you be able to join us? Technology deserves, you will have
+                        <p class="d-none d-md-block w-100 text-center">Will you be able to join us? Technology deserves, you will have
                             to fight and show courage. Do not forget your socks, your laser mice, and your ground coffee.
                             We are waiting for you.
                         </p>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="../public/Images/euratech/slidereura2.png" alt="Second slide">
-                        <p class="d-none d-md-block text-justify">
+                        <p class="d-none d-md-block text-center">
                             After fifty years of battles, we managed to take control. Renovation work is to be expected.
                             Are you ready to roll up your sleeves? Anyway our robots are ready. Don't be afraid and come on !
                         </p>
@@ -84,11 +84,13 @@
             </div>
             <div class="col-md">
                 <div class="card">
-                    <img class="card-img-top" src="https://via.placeholder.com/350x250" alt="Card image cap">
+                    <img class="card-img-top" id="event3" src="../public/Images/euratech/Olivier.png" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Back to the future</h5>
+                        <p class="card-text">The afterwork of the year. Meet many people, like they were some years ago.
+                            Warning : You can juste speak one minute !
+                        </p>
+                        <p class="card-text"><small class="text-muted">Last updated 2 month ago</small></p>
                     </div>
                 </div>
             </div>
@@ -113,12 +115,12 @@
                     <div class="card-body text-dark">
                         <h5 class="card-title">Wild Code School</h5>
                         <div class="card-text h-100 align-items-center">
-                        <address>EuraDarkNologie
-                            <br/>
-                            Start the treasure hunt.
-                            <br/>
-                            The map opposite is your first clue.
-                        </address>
+                            <address>EuraDarkNologie
+                                <br/>
+                                Start the treasure hunt.
+                                <br/>
+                                The map opposite is your first clue.
+                            </address>
                         </div>
                     </div>
                 </div>

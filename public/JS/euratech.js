@@ -15,3 +15,12 @@ $("#event2").on({
         this.src= '../public/Images/euratech/bodyfatday.png';
     }
 });
+
+$("#event3").on({
+    "mouseover" : function() {
+        this.src = '../public/Images/euratech/olivier.gif';
+    },
+    "mouseout" : function() {
+        this.src= '../public/Images/euratech/Olivier.png';
+    }
+});
