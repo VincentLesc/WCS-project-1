@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-    <title>EuraDark Arena</title>
+    <title>EuraDarkNologie</title>
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="../public/css/style.css">
+    <link rel="stylesheet" href="../public/CSS/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/CSS/style.css">
 </head>
 <body>
 
@@ -17,21 +17,23 @@
 <section id="euraslider">
     <div class="container">
         <div class="row p-4 justify-content-center">
-            <h2>Title Euratechnologies</h2>
+            <h2>EuraDarkNologie</h2>
         </div>
         <div class="row p-3">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100" src="../public/Images/euratech/slidereura1.jpg" alt="First slide">
-                        <p class="d-none d-md-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta est a nunc fermentum imperdiet. Morbi in
-                            ex sed neque convallis accumsan id nec ante. Donec condimentum neque justo, et facilisis justo pharetra eu.
+                        <p class="d-none d-md-block w-100 text-justify">Will you be able to join us? Technology deserves, you will have
+                            to fight and show courage. Do not forget your socks, your laser mice, and your ground coffee.
+                            We are waiting for you.
                         </p>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="../public/Images/euratech/slidereura2.png" alt="Second slide">
-                        <p class="d-none d-md-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta est a nunc fermentum imperdiet. Morbi in
-                            ex sed neque convallis accumsan id nec ante. Donec condimentum neque justo, et facilisis justo pharetra eu.
+                        <p class="d-none d-md-block text-justify">
+                            After fifty years of battles, we managed to take control. Renovation work is to be expected.
+                            Are you ready to roll up your sleeves? Anyway our robots are ready. Don't be afraid and come on !
                         </p>
                     </div>
                 </div>
@@ -99,7 +101,7 @@
 <section id="locate">
     <div class="container">
         <div class="row p-4 justify-content-center">
-            <h2>Find us in Euratech !</h2>
+            <h2>Find us at EuraDarkNologie !</h2>
         </div>
         <div class="row pb-4 justify-content-between mb-3">
             <div class="col-md-7">
@@ -107,10 +109,17 @@
             </div>
             <div class="col-md-5">
                 <div class="card h-100">
-                    <div class="card-header">Address</div>
+                    <div class="card-header">Location</div>
                     <div class="card-body text-dark">
                         <h5 class="card-title">Wild Code School</h5>
-                        <p class="card-text"><address>Euratechnologies<br/>4 avenue des Saules, 59160 Lomme</address>
+                        <div class="card-text h-100 align-items-center">
+                        <address>EuraDarkNologie
+                            <br/>
+                            Start the treasure hunt.
+                            <br/>
+                            The map opposite is your first clue.
+                        </address>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -122,9 +131,8 @@
 
 <?php require 'footer.html'; ?>
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="../public/JS/jquery-3.3.1.min.js"></script>
+<script src="../public/JS/bootstrap.min.js"></script>
 <script src="../public/JS/euratech.js"></script>
 </body>
 </html>
