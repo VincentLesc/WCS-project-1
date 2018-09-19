@@ -4,8 +4,8 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title>WildCodeSchool</title>
-		<link rel="stylesheet" media="screen" type="text/css" href="./index.css"/>
+		<title>DarkCodeSchool</title>
+		<link rel="stylesheet" media="screen" type="text/css" href="./style.css"/>
 
 		<!-- meta -->
 		<meta name="wildcodeschool" content="">
@@ -14,7 +14,7 @@
 		<!-- mon icon -->
 		<link rel="shortcut icon" href="favicon.ico">
 
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
 	</head>
 
@@ -24,7 +24,7 @@
 
 	<header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand" href="#">Wild Code School</a>
+            <a class="navbar-brand" href="#">Dark Code School</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -50,23 +50,22 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="https://via.placeholder.com/900x390" alt="First slide" height="550">
+      <img class="d-block w-100" src="" alt="First slide" height="550">
     <div class="carousel-caption d-none d-md-block">
-    	<h2>Become a web developer in 5 months</h2>   
-    	<h3>Learn how to code and be ready to rule the world !</h3>
+    	<h3>On September 2018, the Wild Code School becomes the</h3>   
+    	<h2>Dark Code School</h2>
   	</div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://via.placeholder.com/900x390" alt="Second slide">
     <div class="carousel-caption d-none d-md-block">
-    	<h2>Choose your team !</h2>   
-    	<h3>Which clan do you deserve to be in ?</h3>
+    	<h3>Learn to code in 5 months and become the best web developer !</h3>
   	</div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://via.placeholder.com/900x390" alt="Third slide">
      <div class="carousel-caption d-none d-md-block">
-    	<h2>Join Wild Code School !</h2>
+    	<h3>Join the code's Force !</h3>
   	</div>
     </div>
   </div>
@@ -85,14 +84,16 @@
 <!-- Title & School presentation -->
 
 <section id="homepresentation_section">
-  <h1 class="sectiontitle"><strong>Welcome to Wild Code School !</strong></h1>
+  <h1 class="sectiontitle"><strong>Welcome to Dark Code School !</strong></h1>
 
 
 		<img class="home_image float-lg-left ml-lg-3 mr-lg-3" src="https://via.placeholder.com/400x400" alt="Home presentation" id="presentationimg">
-		<p class="text-justify mr-3" id="presentationtext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. </br> 
-    Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. </br>
-    Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. </br>
-    Maecenas adipiscing ante non diam sodales hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. </br>Pellentesque congue. Ut in risus volutpat libero pharetra tempor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.</p>
+		<p class="text-justify mr-3" id="presentationtext">The school is based in Euratechnologies in Lille, a place where start-ups and big numeric companies stand together.
+      It's the perfect place to learn web development ! And let's confess it, if you want to hack the spatial ship of your enemy, you have to be well surrounded, no ?!
+      In a warm and friendly ambience which makes the reputation of the North people, come learn development web at the speed of light  (or at least, as fast as on bord of the best spatial ship of the universe).
+      Then Lille, it's clearly the best city, we are the King of the North !
+      ....
+      Hmmmm, wait, it's not the same TV show, we haven't convinced yet Jon Snow to join the Force, we get back together promise !</p>
 
 
     <div class="text-center">
@@ -100,8 +101,11 @@
     </div>
 
 
-		<h2 class="contact_text"><strong>You want to join Wild Code School army ?<br/>
-		Click on the button above, fill in the informations</br> and discover the joy of web development !</strong></h2>
+		<h2 class="contact_text"><strong>You want to join Dark Code School's Force ?<br/>
+    - Click on the button above<br/>
+    - Let us a message<br/>
+    - We will contact you for a meeting<br/>
+    And soon, you'll be part of the Force too !</strong></h2>
 
 </div>
 
@@ -125,7 +129,7 @@
         </div>
       <div class="col-10 col-md-5 col-offset-1">
         <h4 class="text-white">Address</h4>
-        <address class="text-white">Wild Code School<br/>Euratechnologies<br/>
+        <address class="text-white">Dark Code School<br/>Euratechnologies<br/>
                         4 avenue des Saules, 59160 Lomme</address>
       </div>
     </div>
