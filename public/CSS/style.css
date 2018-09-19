@@ -50,21 +50,7 @@
 	padding-bottom: 4%;
 }
 
-/* Euratech */
 
-.card.events:hover > img#event {
-	z-index: -1;
-}
-
-img#event {
-	z-index: 1;
-}
-
-img#eventhidden{
-	position: absolute;
-	left: 0;
-	z-index: 0;
-}
 
 
 
