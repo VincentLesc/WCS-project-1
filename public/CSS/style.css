@@ -1,0 +1,80 @@
+/*Guest-book*/
+
+.customer{
+	border:1px ridge lightgrey;
+}
+
+.comment-body{
+	border: 1px solid black;
+    background-color:darkgrey;
+    color:white;
+}
+
+
+#messages .comment{
+    margin-top:4%;
+}
+
+#submitGuestBook li{
+	max-width:29%;
+}
+
+#submitGuestBook img{
+	max-width:100%;
+}
+
+/* Slider */
+
+.carousel img {
+	width: 100%;
+	height: 93vh;
+}
+
+/* Home presentation */
+
+.sectiontitle {
+	padding-top: 3%;
+	text-align: center;
+}
+
+#home_presentation_section .container {
+	padding-top: 3%;
+}
+
+#presentationtext {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+#presentationimg {
+	padding-top: 2%;
+}
+
+
+.contact_text {
+	text-align: center;
+	padding-top: 3%;
+	padding-bottom: 4%;
+}
+
+/* Police */
+
+@font-face {
+        font-family : Starjhol;
+        src : url(../Fonts/Starjhol.ttf);
+}
+ 
+h3 {
+        font-family : Starjhol, sans-serif;
+}
+
+@font-face {
+        font-family : Starjedi;
+        src : url(../Fonts/Starjedi.ttf);
+}
+ 
+h2 {
+        font-family : Starjedi, sans-serif;
+}
+
+/* Footer */
