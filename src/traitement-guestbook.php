@@ -21,4 +21,4 @@ $fp = fopen("messages.csv",'a' );
 fputcsv($fp, array($firstName, $name, $birthDate, $city, $country, $title, $message, $avatar, $date), '~', '"');
 fclose($fp);
 
-header('Location: guestbook.php');
+header('Location: ../../public/guestbook.php');
