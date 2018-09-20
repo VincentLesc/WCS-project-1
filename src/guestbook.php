@@ -5,17 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Wild Code School humoristic website">
     <meta name="author" content="Florian RADUREAU">
-    <meta name="keywords" content="Guestbook Dark Code School"
-    <title>Wild code school - Guest book</title>
+    <meta name="keywords" content="Guest book Dark Code School">
     <link href="../public/CSS/image-picker.css" rel="stylesheet">
-    <link href="../public/CSS/bootstrap.min.css">
+    <link href="../public/CSS/bootstrap.min.css" rel="stylesheet">
     <link href="../public/CSS/style.css" rel="stylesheet">
+    <title>Wild code school - Guest book</title>
 </head>
 <body>
 <?php require '../src/navbar.html' ?>
 <section id = "messages" >
     <div class="container" >
         <div class="comment" >
+            <div class="row text-center">
+                <div class="col">
+                    <h1>Please sign our Guest book !</h1>
+                </div>
+            </div>
             <?php include '../src/display-guestbook.php';
             displayGuestBook() ?>
         </div>
@@ -23,7 +28,7 @@
 </section>
 
 <section id="submitGuestBook">
-    <div class="container">
+    <div class="container mt-5">
         <form action="../src/traitement-guestbook.php" method="post">
             <div class="form-row">
                 <div class="col-12 col-lg-6 form-group">

@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="Wild Code School humoristic website">
 	<meta name="author" content="Maureen Vinchent">
-	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="shortcut icon" href="../public/Images/favicon.ico">
     <link rel="stylesheet" href="../public/CSS/bootstrap.min.css">
     <link rel="stylesheet" href="../public/CSS/bootstrap-grid.min.css">
     <link rel="stylesheet" href="../public/CSS/bootstrap-reboot.min.css">
