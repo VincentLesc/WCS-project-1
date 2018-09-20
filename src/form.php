@@ -30,13 +30,13 @@
 <div class="container">
     <div class="row">
         <div class="col-md-6 text-center" >
-            <img src="img/Icon_Faction_Rebel.png" alt="" class="form-icon">
+            <img src="../public/Images/Icon_Faction_Rebel.png" alt="" class="form-icon">
             <div class="col"></div>
             <div class="col"><button type="button" class="btn btn-primary" id="form-icon-btn">Rebels</button></div>
             <div class="col"></div>
         </div>
         <div class="col-md-6 text-center">
-            <img src="img/Icon_Faction_Imperial.png" alt="" class="form-icon">
+            <img src="../public/Images/Icon_Faction_Imperial.png" alt="" class="form-icon">
             <div class="col"></div>
             <div class="col"><button type="button" class="btn btn-danger" id="form-icon-btn">Empire</button></div>
             <div class="col"></div>
@@ -57,21 +57,21 @@
                 </div>
 
                 <div class="form-group row">
-                    <label for="userName" class="col-sm-2 col-form-label form-label-custome"><img class="img-one" src="img/user_red.png" alt=""></label>
+                    <label for="userName" class="col-sm-2 col-form-label form-label-custome"><img class="img-one" src="../public/Images/user_red.png" alt=""></label>
                     <div class="col-sm-10">
                         <input type="text" class="form-control" id="userName" name="userName" placeholder="Your Name" required>
                         <div class="invalid-feedback">There might be an error !</div>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="userEmail" class="col-sm-2 col-form-label form-label-custome"><img src="img/opened-email-envelope_red.png" alt=""></label>
+                    <label for="userEmail" class="col-sm-2 col-form-label form-label-custome"><img src="../public/Images/opened-email-envelope_red.png" alt=""></label>
                     <div class="col-sm-10">
                         <input type="email" class="form-control" id="userEmail" name="userEmail" placeholder="Email" required>
                         <div class="valid-feedback">Looks good!</div><div class="invalid-feedback">Please, enter a valid email !</div>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="userMessage" class="col-sm-2 col-form-label form-label-custome"><img src="img/edit_red.png" alt=""></label>
+                    <label for="userMessage" class="col-sm-2 col-form-label form-label-custome"><img src="../public/Images/edit_red.png" alt=""></label>
                     <div class="col-sm-10">
                         <textarea class="form-control" id="userMessage" name="userMessage" rows="4" placeholder="Some text..." required></textarea>
                         <div class="invalid-feedback">This area can not be empty !</div>
@@ -107,21 +107,21 @@
                 </div>
 
                 <div class="form-group row">
-                    <label for="userName" class="col-sm-2 col-form-label form-label-custome"><img class="img-one" src="img/user.png" alt=""></label>
+                    <label for="userName" class="col-sm-2 col-form-label form-label-custome"><img class="img-one" src="../public/Images/user.png" alt=""></label>
                     <div class="col-sm-10">
                         <input type="text" class="form-control" id="userName" name="userName" placeholder="Your Name" required>
                         <div class="invalid-feedback">There might be an error !</div>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="userEmail" class="col-sm-2 col-form-label form-label-custome"><img src="img/opened-email-envelope.png" alt=""></label>
+                    <label for="userEmail" class="col-sm-2 col-form-label form-label-custome"><img src="../public/Images/opened-email-envelope.png" alt=""></label>
                     <div class="col-sm-10">
                         <input type="email" class="form-control" id="userEmail" name="userEmail" placeholder="Email" required>
                         <div class="valid-feedback">Looks good!</div><div class="invalid-feedback">Please, enter a valid email !</div>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="userMessage" class="col-sm-2 col-form-label form-label-custome"><img src="img/edit.png" alt=""></label>
+                    <label for="userMessage" class="col-sm-2 col-form-label form-label-custome"><img src="../public/Images/edit.png" alt=""></label>
                     <div class="col-sm-10">
                         <textarea class="form-control" id="userMessage" name="userMessage" rows="4" placeholder="Some text..." required></textarea>
                         <div class="invalid-feedback">This area can not be empty !</div>
