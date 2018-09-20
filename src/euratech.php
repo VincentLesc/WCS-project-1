@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <meta name="description" content="Wild Code School humoristic website">
+    <meta name="author" content="Vincent Leschaeve">
+    <link rel="shortcut icon" href="favicon.ico">
 
     <title>EuraDarkNologie</title>
 
@@ -55,7 +57,7 @@
 <section id="events">
     <div class="container">
         <div class="row p-4 justify-content-center">
-            <h2>Events</h2>
+            <h3>Events</h3>
         </div>
         <div class="row justify-content-between pb-4">
             <div class="col-md">
@@ -103,7 +105,7 @@
 <section id="locate">
     <div class="container">
         <div class="row p-4 justify-content-center">
-            <h2>Find us at EuraDarkNologie !</h2>
+            <h3>Find us at EuraDarkNologie !</h3>
         </div>
         <div class="row pb-4 justify-content-between mb-3">
             <div class="col-md-7">
