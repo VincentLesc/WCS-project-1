@@ -19,20 +19,20 @@ function resultat() {
     if (valid === 3) {
 	    if (score === 3) {
             resultElt.style.borderRadius = "5px";
-            resultElt.style.backgroundColor = "#AD1010";
+            resultElt.style.backgroundColor = "#E84938";
             resultElt.style.color = "white";
             resultElt.style.width = "500px";
             resultElt.style.padding = "5px";
             textResult.innerHTML = "This is the results, you only have " + score + " points ! Mhh I think you're not fit to be a Dark Student, sorry man !";            
         } else if (score >= 4 && score <= 6) {
-            resultElt.style.backgroundColor = "#0F4C91";
+            resultElt.style.backgroundColor = "#E88138";
             resultElt.style.color = "white";
             resultElt.style.borderRadius = "5px";
             resultElt.style.width = "500px";
             resultElt.style.padding = "5px";
             textResult.innerHTML = "This is the results, you have " + score + " points ! You can apply for Wild Code School but you'll have to make efforts to be involved like training for tennis table or buying beautiful socks !";
         } else if (score >= 7 && score <= 9) {
-            resultElt.style.backgroundColor = "#15910A";
+            resultElt.style.backgroundColor = "#78C44D";
             resultElt.style.color = "white";
             resultElt.style.borderRadius = "5px";
             resultElt.style.width = "500px";

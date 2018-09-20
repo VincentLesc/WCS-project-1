@@ -13,7 +13,7 @@ function age($date)
 
 function displayGuestBook()
 {
-    $csvFile = file('../src/app/messages.csv');
+    $csvFile = file('messages.csv');
     $file = [];
     foreach ($csvFile as $road) {
         $file[] = str_getcsv($road,"~",'"');

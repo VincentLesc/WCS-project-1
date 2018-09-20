@@ -26,11 +26,11 @@
 /* Home presentation */
 
 .sectiontitle {
-	padding-top: 2%;
+	padding-top: 3%;
 	text-align: center;
 }
 
-.container {
+#home_presentation_section .container {
 	padding-top: 3%;
 }
 
@@ -51,7 +51,25 @@
 }
 
 
+/* Police */
 
+@font-face {
+        font-family : Starjhol;
+        src : url(../Fonts/Starjhol.ttf);
+}
+ 
+h3 {
+        font-family : Starjhol, sans-serif;
+}
+
+@font-face {
+        font-family : Starjedi;
+        src : url(../Fonts/Starjedi.ttf);
+}
+ 
+h2 {
+        font-family : Starjedi, sans-serif;
+}
 
 
 /* Footer */
