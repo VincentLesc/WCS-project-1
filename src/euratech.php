@@ -23,14 +23,14 @@
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="../public/Images/euratech/slidereura1.jpg" alt="First slide">
+                        <img class="d-block w-100" src="../public/Images/euratech/slidereura1.jpg" alt="Image of Euratechnologie with stormtrooper">
                         <p class="d-none d-md-block w-100 text-center">Will you be able to join us? Technology deserves, you will have
                             to fight and show courage. Do not forget your socks, your laser mice, and your ground coffee.
                             We are waiting for you.
                         </p>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="../public/Images/euratech/slidereura2.png" alt="Second slide">
+                        <img class="d-block w-100" src="../public/Images/euratech/slidereura2.png" alt=" Image of Euratechnologie before renovation with star wars sky">
                         <p class="d-none d-md-block text-center">
                             After fifty years of battles, we managed to take control. Renovation work is to be expected.
                             Are you ready to roll up your sleeves? Anyway our robots are ready. Don't be afraid and come on !
@@ -60,7 +60,7 @@
         <div class="row justify-content-between pb-4">
             <div class="col-md">
                 <div class="card events">
-                    <img class="card-img-top event" id="event1" src="../public/Images/euratech/veetevent.png" alt="Card image cap">
+                    <img class="card-img-top event" id="event1" src="../public/Images/euratech/veetevent.png" alt="Veet Hackaton 2019 announcement">
                     <div class="card-body">
                         <h5 class="card-title">Veet Hackaton 2019</h5>
                         <p class="card-text">Join the team and help Veet to developp the Shaving AI App !
@@ -72,7 +72,7 @@
             </div>
             <div class="col-md">
                 <div class="card">
-                    <img class="card-img-top" id="event2" src="../public/Images/euratech/bodyfatday.png" alt="Card image cap">
+                    <img class="card-img-top" id="event2" src="../public/Images/euratech/bodyfatday.png" alt="Body-fat night annoucement">
                     <div class="card-body">
                         <h5 class="card-title">Basic-Fat Night</h5>
                         <p class="card-text">Can you beat our Gaetano? Come and challenge him at the biggest demonstration
@@ -84,7 +84,7 @@
             </div>
             <div class="col-md">
                 <div class="card">
-                    <img class="card-img-top" id="event3" src="../public/Images/euratech/Olivier.png" alt="Card image cap">
+                    <img class="card-img-top" id="event3" src="../public/Images/euratech/Olivier.png" alt="Back to the future party announcement">
                     <div class="card-body">
                         <h5 class="card-title">Back to the future</h5>
                         <p class="card-text">The afterwork of the year. Meet many people, like they were some years ago.
@@ -107,7 +107,7 @@
         </div>
         <div class="row pb-4 justify-content-between mb-3">
             <div class="col-md-7">
-                <img src="../public/Images/euratech/map.png" alt="" class="img-fluid">
+                <img src="../public/Images/euratech/map.png" alt="Map for EuraDarkNologie situation" class="img-fluid">
             </div>
             <div class="col-md-5">
                 <div class="card h-100">
@@ -134,7 +134,7 @@
 <?php require 'footer.html'; ?>
 
 <script src="../public/JS/jquery-3.3.1.min.js"></script>
-<script src="../public/JS/bootstrap.min.js"></script>
+<script src="../public/JS/bootstrap.bundle.min.js"></script>
 <script src="../public/JS/euratech.js"></script>
 </body>
 </html>
