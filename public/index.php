@@ -25,12 +25,12 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="Images/index/SLIDE1.png" alt="First slide" height="700">
+            <img class="d-block w-100" src="Images/index/SLIDE1.png" alt="First slide">
             <div class="carousel-caption d-none d-md-block">
             </div>
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="Images/index/SLIDE2.png" alt="Second slide" height="700">
+            <img class="d-block w-100" src="Images/index/SLIDE2.png" alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
             </div>
         </div>
@@ -74,7 +74,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col">
+            <div class="col col-lg-4 offset-lg-4">
                 <h2 class="contact_text"><strong>You want to join <p class="dark_contact_text">Dark Code School’s Force</p><hr/>
                         - Click on the button above<br/>
                         - Let us a message<br/>
