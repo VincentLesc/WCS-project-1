@@ -88,7 +88,7 @@ h2, h1, .dark_contact_text {
 
 /* Home page Slider */
 
-#carousel_homepage .carousel img {
+#carousel_homepage.carousel img {
 	width: 100%;
 	height: 93vh;
 }
@@ -113,14 +113,14 @@ h2, h1, .dark_contact_text {
 	max-width:29%;
 }
 
-<<<<<<< HEAD
+
 h2, nav, h1, footer, .dark_contact_text, #home_presentation_section .sectiontitle, .events .card-title, #location {
 	font-family : Starjedi, sans-serif;
-=======
+
 #submitGuestBook img {
 	max-width:100%;
 }
->>>>>>> ff4a776397ca3b5eebca7ece37cee1dc6230e290
+
 
 /* Form */
 #form-title {
@@ -137,14 +137,14 @@ h2, nav, h1, footer, .dark_contact_text, #home_presentation_section .sectiontitl
 	margin-bottom:5%;
 }
 
-<<<<<<< HEAD
+
 .contact_text ,p {
 	font-family : Supermarketed;
-=======
+
 form.rebels, form.empire {
 	display: none;
 	margin:10% 0 0 0;
->>>>>>> ff4a776397ca3b5eebca7ece37cee1dc6230e290
+
 }
 
 .form-label-custome {
