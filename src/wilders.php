@@ -6,7 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="Wild Code School humoristic website">
 	<meta name="author" content="Maureen Vinchent">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="../public/CSS/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/CSS/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="../public/CSS/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="../public/CSS/style.css">
     <title>Wild Code School - Wilders</title>
 </head>
 <body>
@@ -14,14 +17,14 @@
     <section>
         <div class="container">
             <div class="row">
-                <img src="photos/groupe.jpg" alt="Banniere img" class="w-100 h-50"/>
+                <img src="../public/Images/wilders/groupe.jpg" alt="Banniere img" class="w-100 h-50"/>
             </div>
             <div class="row text-center justify-content-center">
                 <h1 class="m-3" id="wilders">Developers army</h1>
             </div>
             <div class="row">
                 <div class="col-md-5">
-                    <img src="photos/stormdeveloper.jpg" alt="Img" class="img-fluid float-lg-right p-2">
+                    <img src="../public/Images/wilders/stormdeveloper.jpg" alt="Img" class="img-fluid float-lg-right p-2">
                 </div>
                 <div class="col-md-7">
                     <p class="text-justify">
@@ -40,15 +43,15 @@
     <section>
         <div class="container">
             <div class="row justify-content-between ml-lg-1 ml-5 mt-5">
-                <img src="photos/vladimir.jpg" alt="Img" class="img-fluid rounded-circle ml-lg-3 ml-2 mr-3 mb-3">
-                <img src="photos/fleur.jpg" alt="Img" class="img-fluid rounded-circle ml-lg-3 ml-2 mr-3 mb-3">
-                <img src="photos/vincent.jpg" alt="Img" class="img-fluid rounded-circle ml-lg-3 ml-2 mr-3 mb-3">
-                <img src="photos/florian.jpg" alt="Img" class="img-fluid rounded-circle ml-lg-3 ml-2 mr-3 mb-3">
-                <img src="photos/mo.png" alt="Img" class="img-fluid rounded-circle ml-lg-3 ml-2 mr-3 mb-3">
+                <img src="../public/Images/wilders/vladimir.jpg" alt="Img" class="vladi img-fluid rounded-circle ml-lg-3 ml-2 mr-3 mb-3">
+                <img src="../public/Images/wilders/fleur.jpg" alt="Img" class="fleur img-fluid rounded-circle ml-lg-3 ml-2 mr-3 mb-3">
+                <img src="../public/Images/wilders/vincent.jpg" alt="Img" class="vincent img-fluid rounded-circle ml-lg-3 ml-2 mr-3 mb-3">
+                <img src="../public/Images/wilders/florian.jpg" alt="Img" class="florian img-fluid rounded-circle ml-lg-3 ml-2 mr-3 mb-3">
+                <img src="../public/Images/wilders/mo.png" alt="Img" class="maureen img-fluid rounded-circle ml-lg-3 ml-2 mr-3 mb-3">
             </div>
             <div class="row">
                 <p class="ml-3 mr-3 text-justify">
-                    The Wild Code School is dedicated to put forward diversity by including several personalities within the school. For example, our Campus Manager is a master Jedi, our instructor Loïc is a Wookiee and our instructor Gaëtan is between a Jedi and Dark Vador, depends on his mood of the day. It is the same with the students who are kind Stormtroopers on the right side of the Force. But five of our students are not Stormtroopers yet but real Jedi apprentices, let me introduce them : Vladimir, Fleur, Vincent, Florian and Maureen. They are trying everyday to learn from the Force with all the Stormtroopers, they help and learn from each others because they have the same goal : being a good web developer ! Well, sometimes they have to confront themselves during tennis table games during lunch break but always in a good mood.<br/>
+                    The Wild Code School is dedicated to put forward diversity by including several personalities within the school. For example, our Campus Manager is a master Jedi, our instructor Loïc is a Wookiee and our instructor Gaëtan is once a Jedi and once Dark Vador, depends on his daily mood. It is the same with the students who are kind Stormtroopers on the right side of the Force. But five of our students are not Stormtroopers yet but real Jedi apprentices, let me introduce them : Vladimir, Fleur, Vincent, Florian and Maureen. They are trying everyday to learn from the Force with all the Stormtroopers, they help and learn from each others because they have the same goal : being a good web developer ! Well, sometimes they have to confront themselves during tennis table games during lunch break but always in a good mood.<br/>
                     Life in Wild Code School is not always easy as web developer life, you will discover why soon but for now we want to share with you our daily emotions.
                 </p>
             </div>
@@ -57,13 +60,13 @@
                     <div class="card-body text-center">
                         When you start a dojo !
                     </div>
-                    <img src="photos/fear.gif" alt="Fear">
+                    <img src="../public/Images/wilders/fear.gif" alt="Fear">
                 </div>
                 <div class="card mt-4">
                     <div class="card-body text-center">
                         When you're going to merge your branches on Git !
                     </div>
-                    <img src="photos/regret.gif" alt="Regret" style="height:213px;">
+                    <img src="../public/Images/wilders/regret.gif" alt="Regret" style="height:213px;">
                 </div>
             </div>
             <div class="row justify-content-between ml-1 mr-1">
@@ -71,13 +74,13 @@
                     <div class="card-body text-center">
                         When you succeed your first group project !
                     </div>
-                    <img src="photos/stormdance.gif" alt="Stormtroopers Dance">
+                    <img src="../public/Images/wilders/stormdance.gif" alt="Stormtroopers Dance">
                 </div>
                 <div class="card mt-4">
                     <div class="card-body text-center">
                         When you come back home after school !
                     </div>
-                    <img src="photos/r2d2.gif" alt="Tired">
+                    <img src="../public/Images/wilders/r2d2.gif" alt="Tired">
                 </div>
             </div>
             <div class="row justify-content-between ml-1 mr-1">
@@ -85,13 +88,13 @@
                     <div class="card-body text-center">
                         When you forgot to lock your computer !
                     </div>
-                    <img src="photos/trap.gif" alt="Trap">
+                    <img src="../public/Images/wilders/trap.gif" alt="Trap">
                 </div>
                 <div class="card mt-4">
                     <div class="card-body text-center">
                         When your console displays error messages with "Kernel" word !
                     </div>
-                    <img src="photos/notreassuring.gif" alt="Not reassuring">
+                    <img src="../public/Images/wilders/notreassuring.gif" alt="Not reassuring">
                 </div>
             </div>
         </div>
@@ -163,17 +166,18 @@
                     <input type="button" class="btn btn-dark" onclick="resultat()" value="Submit">
                 </div>
             </div>
-            <div class="mt-3 mb-3 ml-lg-1 ml-3 text-center" id="refresh">
+            <div class="mt-3 mb-3 ml-lg-1 ml-3 text-center">
                 <input type="button" class="btn btn-dark" id="refresh" onclick="refresh()" value="Refresh">
             </div>
         </div>
     </section>
 
-<?php require 'footer.html'; ?>
+    <?php require 'footer.html'; ?>
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-<script src="quiz.js"></script>
+    <script src="../public/JS/jquery-3.3.1.min.js"></script>
+    <script src="../public/JS/bootstrap.bundle.min.js"></script>
+    <script src="../public/JS/bootstrap.min.js"></script>
+    <script src="../public/JS/quiz.js"></script>
+    <script src="../public/JS/hover.js"></script>
 </body>
 </html>

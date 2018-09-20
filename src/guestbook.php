@@ -3,17 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Wild Code School humoristic website">
+    <meta name="author" content="Florian RADUREAU">
+    <meta name="keywords" content="Guestbook Dark Code School"
     <title>Wild code school - Guest book</title>
-    <link href="../src/style/image-picker.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-    <link href="../src/style/style.css" rel="stylesheet">
+    <link href="../public/CSS/image-picker.css" rel="stylesheet">
+    <link href="../public/CSS/bootstrap.min.css">
+    <link href="../public/CSS/style.css" rel="stylesheet">
 </head>
 <body>
-<?php require '../src/app/navbar.html' ?>
+<?php require '../src/navbar.html' ?>
 <section id = "messages" >
     <div class="container" >
         <div class="comment" >
-            <?php include '../src/app/display-guestbook.php';
+            <?php include '../src/display-guestbook.php';
             displayGuestBook() ?>
         </div>
     </div>
@@ -21,7 +24,7 @@
 
 <section id="submitGuestBook">
     <div class="container">
-        <form action="../src/app/traitement-guestbook.php" method="post">
+        <form action="../src/traitement-guestbook.php" method="post">
             <div class="form-row">
                 <div class="col-12 col-lg-6 form-group">
                     <label for="first_name">First name</label>
@@ -56,32 +59,34 @@
                 <div class="col form-group">
                     <label for="avatar">Avatar</label>
                     <select class="image-picker" name="avatar" id="avatar">
-                        <option data-img-src="avatar/avatar1.gif">src/Images/avatar/avatar1.gif</option>
-                        <option data-img-src="avatar/avatar2.gif">avatar/avatar2.gif</option>
-                        <option data-img-src="avatar/avatar3.gif">avatar/avatar3.gif</option>
-                        <option data-img-src="avatar/avatar4.gif">avatar/avatar4.gif</option>
-                        <option data-img-src="avatar/avatar5.gif">avatar/avatar5.gif</option>
-                        <option data-img-src="avatar/avatar6.gif">avatar/avatar6.gif</option>
-                        <option data-img-src="avatar/avatar7.gif">avatar/avatar7.gif</option>
-                        <option data-img-src="avatar/avatar8.gif">avatar/avatar8.gif</option>
+                        <option data-img-src="../public/Images/avatar/avatar1.gif">../public/Images/avatar/avatar1.gif</option>
+                        <option data-img-src="../public/Images/avatar/avatar2.gif">../public/Images/avatar/avatar2.gif</option>
+                        <option data-img-src="../public/Images/avatar/avatar3.gif">../public/Images/avatar/avatar3.gif</option>
+                        <option data-img-src="../public/Images/avatar/avatar4.gif">../public/Images/avatar/avatar4.gif</option>
+                        <option data-img-src="../public/Images/avatar/avatar5.gif">../public/Images/avatar/avatar5.gif</option>
+                        <option data-img-src="../public/Images/avatar/avatar6.gif">../public/Images/avatar/avatar6.gif</option>
+                        <option data-img-src="../public/Images/avatar/avatar7.gif">../public/Images/avatar/avatar7.gif</option>
+                        <option data-img-src="../public/Images/avatar/avatar8.gif">../public/Images/avatar/avatar8.gif</option>
                     </select>
                 </div>
+                <div class="col-12 text-center">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
             </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
         </form>
     </div>
 </section>
 
 
 
-<?php require '../src/app/footer.html' ?>
+<?php require '../src/footer.html' ?>
 
-<script src="../src/scripts/jquery-3.3.1.min.js"></script>
-<script src="../src/app/image-picker.min.js"></script>
+<script src="../public/JS/jquery-3.3.1.min.js"></script>
+<script src="../public/JS/image-picker.min.js"></script>
 <script>
     $( ".image-picker" ).imagepicker();
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="../public/JS/bootstrap.min.js"></script>
+<script src="../public/JS/bootstrap.bundle.min.js"></script>
 </body>
 </html>
