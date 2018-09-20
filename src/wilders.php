@@ -5,15 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="Wild Code School humoristic website">
-	<meta name="author" content="Maureen Vinchent">
+    <meta name="author" content="Maureen Vinchent">
+    <link rel="shortcut icon" href="../public/Images/favicon.ico">
     <link rel="stylesheet" href="../public/CSS/bootstrap.min.css">
     <link rel="stylesheet" href="../public/CSS/bootstrap-grid.min.css">
     <link rel="stylesheet" href="../public/CSS/bootstrap-reboot.min.css">
     <link rel="stylesheet" href="../public/CSS/style.css">
-    <title>Wild Code School - Wilders</title>
+    <title>Dark Code School - Wilders</title>
 </head>
 <body>
-<?php require 'navbar.html' ?>
+    <?php require 'navbar.html' ?>
     <section>
         <div class="container">
             <div class="row">
