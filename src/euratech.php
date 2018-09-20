@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Wild Code School humoristic website">
     <meta name="author" content="Vincent Leschaeve">
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="../public/Images/favicon.ico">
 
     <title>EuraDarkNologie</title>
 
