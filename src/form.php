@@ -151,7 +151,7 @@
 <script src="../public/JS/jquery-3.3.1.min.js"></script>
 <script src="../public/JS/bootstrap.bundle.min.js"></script>
 <script src="../public/JS/bootstrap.min.js"></script>
-<script src="../public/JS/form.js"></script>
+<script src="../public/JS/form.js" defer></script>
 
 </body>
 </html>
