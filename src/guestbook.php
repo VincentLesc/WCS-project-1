@@ -9,6 +9,7 @@
     <link href="../public/CSS/image-picker.css" rel="stylesheet">
     <link href="../public/CSS/bootstrap.min.css" rel="stylesheet">
     <link href="../public/CSS/style.css" rel="stylesheet">
+    <link rel="shortcut icon" href="../public/Images/favicon.ico">
     <title>Wild code school - Guest book</title>
 </head>
 <body>

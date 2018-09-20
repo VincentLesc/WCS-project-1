@@ -16,7 +16,7 @@
 <body>
     <?php require 'navbar.html' ?>
     <section>
-        <h1 class="text-center mt-4" id="instructors">Instructors</h1>
+        <h1 class="text-center mt-4" id="instructors">instructors</h1>
         <!-- Cards for instructors photos -->
         <div class="container mt-5">
             <div class="row text-center justify-content-between">

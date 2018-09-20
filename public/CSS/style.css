@@ -80,7 +80,7 @@ h3, .force_contact_text {
 	src : url(../Fonts/Starjedi.ttf);
 }
 
-h2, nav, h1, .dark_contact_text, #home_presentation_section .sectiontitle {
+h2, nav, h1, footer, .dark_contact_text, #home_presentation_section .sectiontitle, .events .card-title, #location {
 	font-family : Starjedi, sans-serif;
 
 nav {
@@ -97,8 +97,8 @@ nav {
 	font-size : 1.4em;
 }
 
-.contact_text {
-	font-family : Supermarketed, sans-serif;
+.contact_text ,p {
+	font-family : Supermarketed;
 }
 
 

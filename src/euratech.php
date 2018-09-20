@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Wild Code School humoristic website">
     <meta name="author" content="Vincent Leschaeve">
-    <link rel="shortcut icon" href="../public/Images/favicon.ico">
+
 
     <title>EuraDarkNologie</title>
-
+    <link rel="shortcut icon" href="../public/Images/favicon.ico">
     <link rel="stylesheet" href="../public/CSS/bootstrap.min.css">
     <link rel="stylesheet" href="../public/CSS/style.css">
 </head>
@@ -19,7 +19,7 @@
 <section id="euraslider">
     <div class="container">
         <div class="row p-4 justify-content-center">
-            <h2>EuraDarkNologie</h2>
+            <h1>EuraDarkNologie</h1>
         </div>
         <div class="row p-3">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -57,14 +57,14 @@
 <section id="events">
     <div class="container">
         <div class="row p-4 justify-content-center">
-            <h3>Events</h3>
+            <h2>Events</h2>
         </div>
         <div class="row justify-content-between pb-4">
             <div class="col-md">
-                <div class="card events">
+                <div class="card events shadow p-1">
                     <img class="card-img-top event" id="event1" src="../public/Images/euratech/veetevent.png" alt="Veet Hackaton 2019 announcement">
                     <div class="card-body">
-                        <h5 class="card-title">Veet Hackaton 2019</h5>
+                        <h5 class="card-title">veet Hackaton 2019</h5>
                         <p class="card-text">Join the team and help Veet to developp the Shaving AI App !
                             Opening of registrations on November 2, 2018
                         </p>
@@ -73,7 +73,7 @@
                 </div>
             </div>
             <div class="col-md">
-                <div class="card">
+                <div class="card events shadow p-1">
                     <img class="card-img-top" id="event2" src="../public/Images/euratech/bodyfatday.png" alt="Body-fat night annoucement">
                     <div class="card-body">
                         <h5 class="card-title">Basic-Fat Night</h5>
@@ -85,12 +85,12 @@
                 </div>
             </div>
             <div class="col-md">
-                <div class="card">
+                <div class="card events shadow p-1">
                     <img class="card-img-top" id="event3" src="../public/Images/euratech/Olivier.png" alt="Back to the future party announcement">
                     <div class="card-body">
                         <h5 class="card-title">Back to the future</h5>
                         <p class="card-text">The afterwork of the year. Meet many people, like they were some years ago.
-                            Warning : You can juste speak one minute !
+                            Warning: You can just speak one minute !
                         </p>
                         <p class="card-text"><small class="text-muted">Last updated 2 month ago</small></p>
                     </div>
@@ -105,7 +105,7 @@
 <section id="locate">
     <div class="container">
         <div class="row p-4 justify-content-center">
-            <h3>Find us at EuraDarkNologie !</h3>
+            <h2>Find us at EuraDarkNologie !</h2>
         </div>
         <div class="row pb-4 justify-content-between mb-3">
             <div class="col-md-7">
@@ -113,11 +113,11 @@
             </div>
             <div class="col-md-5">
                 <div class="card h-100">
-                    <div class="card-header">Location</div>
+                    <div class="card-header text-white bg-dark" id="location">Location</div>
                     <div class="card-body text-dark">
-                        <h5 class="card-title">Wild Code School</h5>
+                        <h5 class="card-title">Dark Code School</h5>
                         <div class="card-text h-100 align-items-center">
-                            <address>EuraDarkNologie
+                            <address>EuraDarkNologie</strong>
                                 <br/>
                                 Start the treasure hunt.
                                 <br/>
