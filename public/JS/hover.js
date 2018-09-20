@@ -1,25 +1,25 @@
 // Hover on images in Instructors page
 $(".olivierImg").on({"mouseover" : function() {
-    this.src = '../src/Images/instructors/olivgif.gif';
+    this.src = '../public/Images/instructors/olivgif.gif';
 }, 
 "mouseout" : function() {
-    this.src='../src/Images/instructors/olivier.jpg';
+    this.src='../public/Images/instructors/olivier.jpg';
   }
 });
 
 $(".gaetanImg").on({"mouseover" : function() {
-    this.src = '../src/Images/instructors/badass.gif';
+    this.src = '../public/Images/instructors/badass.gif';
 }, 
 "mouseout" : function() {
-    this.src='../src/Images/instructors/gaetan.jpg';
+    this.src='../public/Images/instructors/gaetan.jpg';
   }
 });
 
 $(".loicImg").on({"mouseover" : function() {
-    this.src = '../src/Images/instructors/chew.gif';
+    this.src = '../public/Images/instructors/chew.gif';
 }, 
 "mouseout" : function() {
-    this.src='../src/Images/instructors/loic.jpg';
+    this.src='../public/Images/instructors/loic.jpg';
   }
 });
 
