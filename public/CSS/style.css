@@ -1,10 +1,11 @@
 /* Polices */
 /* Home presentation */
-/* Home page slider */
+/* Home page Slider */
 /* Guestbook */
 /* Form */
 
 /* Polices */
+
 @font-face {
 	font-family : Starjhol;
 	src : url(../Fonts/Starjhol.ttf);
@@ -19,11 +20,17 @@ h3, .force_contact_text {
 	src : url(../Fonts/Starjedi.ttf);
 }
 
-h2, nav, h1, .dark_contact_text, #home_presentation_section .sectiontitle {
+h2, h1, .dark_contact_text {
 	font-family : Starjedi, sans-serif;
+}
 
-nav {
-    font-size: 1rem;
+@font-face {
+	font-family : Starjedi;
+	src : url(../Fonts/Starjedi.ttf);
+}
+
+#home_presentation_section .sectiontitle {
+	font-family : Starjedi, sans-serif;
 }
 
 @font-face {
@@ -36,7 +43,12 @@ nav {
 	font-size : 1.4em;
 }
 
-.contact_text {
+@font-face {
+	font-family : Supermarketed;
+	src : url(../Fonts/Supermarketed.otf);
+}
+
+.contact_text, p, label {
 	font-family : Supermarketed, sans-serif;
 }
 
@@ -75,21 +87,22 @@ nav {
 }
 
 /* Home page Slider */
+
 #carousel_homepage .carousel img {
 	width: 100%;
 	height: 93vh;
 }
 
-/* Guestbook */
+/*Guest-book*/
 
 .customer {
 	border:1px ridge lightgrey;
 }
 
 .comment-body {
-    border: 1px solid black;
-    background-color: darkgrey;
-    color: white;
+	border: 1px solid black;
+	background-color:darkgrey;
+	color:white;
 }
 
 #messages .comment {
