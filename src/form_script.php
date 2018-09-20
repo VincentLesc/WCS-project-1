@@ -14,7 +14,7 @@
      
      mail($to, $subject, $userMsg, $from);
 
-    header("Location: http://vladimirpimkie.000webhostapp.com/test/form.html");
+    header("Location: form.php");
 
 
 ?>
