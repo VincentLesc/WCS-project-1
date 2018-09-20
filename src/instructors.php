@@ -16,7 +16,7 @@
 <body>
     <?php require 'navbar.html' ?>
     <section>
-        <h1 class="text-center mt-4" id="instructors">Instructors</h1>
+        <h1 class="text-center mt-4" id="instructors">instructors</h1>
         <!-- Cards for instructors photos -->
         <div class="container mt-5">
             <div class="row text-center justify-content-between">
@@ -66,13 +66,13 @@
             <div class="row justify-content-between ml-1 mr-1">
                 <div class="card mt-4">
                     <div class="card-body text-center">
-                        When you think you understand PHP/JS classes !
+                        <p>When you think you understand PHP/JS classes !</p>
                     </div>
                     <img src="../public/Images/instructors/muchtolearn.gif" alt="Fear">
                 </div>
                 <div class="card mt-4">
                     <div class="card-body text-center">
-                        When your teacher says your code is ugly...
+                        <p>When your teacher says your code is ugly...</p>
                     </div>
                     <img src="../public/Images/instructors/forceworks.gif" alt="Regret">
                 </div>
@@ -80,13 +80,13 @@
             <div class="row justify-content-between ml-1 mr-1">
                 <div class="card mt-4">
                     <div class="card-body text-center">
-                        When Gaëtan looses a ping pong match !
+                        <p>When Gaëtan looses a ping pong match !</p>
                     </div>
                     <img src="../public/Images/instructors/loosepong.gif" alt="Stormtroopers Dance">
                 </div>
                 <div class="card mt-4">
                     <div class="card-body text-center">
-                        When he wins...
+                        <p>When he wins...</p>
                     </div>
                     <img src="../public/Images/instructors/winpong.gif" alt="Tired">
                 </div>

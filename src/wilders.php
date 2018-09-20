@@ -59,13 +59,13 @@
             <div class="row justify-content-between ml-1 mr-1">
                 <div class="card mt-4">
                     <div class="card-body text-center">
-                        When you start a dojo !
+                        <p>When you start a dojo !</p>
                     </div>
                     <img src="../public/Images/wilders/fear.gif" alt="Fear">
                 </div>
                 <div class="card mt-4">
                     <div class="card-body text-center">
-                        When you're going to merge your branches on Git !
+                        <p>When you're going to merge your branches on Git !</p>
                     </div>
                     <img src="../public/Images/wilders/regret.gif" alt="Regret" style="height:213px;">
                 </div>
@@ -73,13 +73,13 @@
             <div class="row justify-content-between ml-1 mr-1">
                  <div class="card mt-4">
                     <div class="card-body text-center">
-                        When you succeed your first group project !
+                        <p>When you succeed your first group project !</p>
                     </div>
                     <img src="../public/Images/wilders/stormdance.gif" alt="Stormtroopers Dance">
                 </div>
                 <div class="card mt-4">
                     <div class="card-body text-center">
-                        When you come back home after school !
+                        <p>When you come back home after school !</p>
                     </div>
                     <img src="../public/Images/wilders/r2d2.gif" alt="Tired">
                 </div>
@@ -87,13 +87,13 @@
             <div class="row justify-content-between ml-1 mr-1">
                 <div class="card mt-4">
                     <div class="card-body text-center">
-                        When you forgot to lock your computer !
+                        <p>When you forgot to lock your computer !</p>
                     </div>
                     <img src="../public/Images/wilders/trap.gif" alt="Trap">
                 </div>
                 <div class="card mt-4">
                     <div class="card-body text-center">
-                        When your console displays error messages with "Kernel" word !
+                        <p>When your console displays error messages with "Kernel" word !</p>
                     </div>
                     <img src="../public/Images/wilders/notreassuring.gif" alt="Not reassuring">
                 </div>
