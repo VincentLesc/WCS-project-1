@@ -10,10 +10,10 @@
     <link rel="stylesheet" href="../public/CSS/bootstrap-grid.min.css">
     <link rel="stylesheet" href="../public/CSS/bootstrap-reboot.min.css">
     <link rel="stylesheet" href="../public/CSS/style.css">
-    <title>Wild Code School - Wilders</title>
+    <title>Dark Code School - Wilders</title>
 </head>
 <body>
-<?php require 'navbar.html' ?>
+    <?php require 'navbar.html' ?>
     <section>
         <div class="container">
             <div class="row">
