@@ -67,7 +67,8 @@ h3 {
         src : url(../Fonts/Starjedi.ttf);
 }
  
-h2, nav {
+h2, nav, messages h1 {
+
         font-family : Starjedi, sans-serif;
 }
 
