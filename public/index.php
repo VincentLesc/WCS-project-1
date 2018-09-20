@@ -15,28 +15,23 @@
 <body>
 
 <!--  Navbar -->
-
 <?php require '../src/navbar.html'; ?>
 
 <!-- Slider -->
-
-<div id="carouselExampleIndicators" class="carousel" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel" data-ride="carousel" id="carousel_homepage">
     <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="Images/index/SLIDE1.jpg" alt="First slide" height="700">
+            <img class="d-block w-100" src="Images/index/SLIDE1.png" alt="First slide" height="700">
             <div class="carousel-caption d-none d-md-block">
-                <h3>On September 2018, the Wild Code School becomes the</h3>
-                <h2>Dark Code School</h2>
             </div>
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="Images/index/strom.jpg" alt="Second slide" height="700">
+            <img class="d-block w-100" src="Images/index/SLIDE2.png" alt="Second slide" height="700">
             <div class="carousel-caption d-none d-md-block">
-                <h2>Learn coding in 5 months and become the galaxy's best web developer !</h2>
             </div>
         </div>
     </div>
@@ -52,25 +47,25 @@
 
 
 <!-- Title & School presentation -->
-<section id="homepresentation_section">
+<section id="home_presentation_section">
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1 class="sectiontitle"><strong>Welcome to Dark Code School !</strong></h1>
+                <h1 class="sectiontitle" id="titleDCS">Welcome to Dark Code School !</h1>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-4">
-                <img class="home_image" src="https://via.placeholder.com/400x400" alt="Home presentation" id="presentationimg">
+                <img class="home_image" src="Images/index/logoWildHomePage.png" alt="Home presentation" id="presentationimg">
             </div>
             <div class="col-lg-8">
-                <p class="text-justify" id="presentationtext">The School is based in Euratechnologies in Lille, a place where start-ups and big companies stand together.<br/>
+                <p class="text-justify" id="presentationtext">The school is based in <strong>Euratechnologies</strong> in <strong>Lille</strong>, a place where start-ups and big companies stand together.<br/>
                     It's the best place to learn web development ! And let's confess it, if you want to hack the spatial ship of your ennemy, it's better to be well surrounded, no ?!<br/>
-                    In a warm and friendly ambience which makes the reputation of the North people, come learn web development at the speed of light (or at least, as fast as on bord of the galaxy's best spatial ship).<br/>
-                    And Lille, it's clearly the best city ever, we are the King of the North !<br/>
+                    In a <strong>warm</strong> and <strong>friendly</strong> ambience which makes the reputation of the North people, come learn web development at the speed of light (or at least, as fast as on bord of the galaxy's best spatial ship).<br/>
+                    And Lille, it's clearly the best city ever, we are <strong>the King of the North !</strong><br/>
                     ...<br/>
                     Hmmm, wait, we haven't convinced yet Jon Snow to join the Force, let's pull ourselves together, shall we ?<br/>
-                    Let's take a look at our beautiful little button right under.</p>
+                    <strong>Let's take a look at our beautiful little button right under.</strong></p>
             </div>
         </div>
         <div class="row">
@@ -80,11 +75,12 @@
         </div>
         <div class="row">
             <div class="col">
-                <h2 class="contact_text"><strong>You want to join Dark Code School’s Force ?<br/>
+                <h2 class="contact_text"><strong>You want to join <p class="dark_contact_text">Dark Code School’s Force</p><hr/>
                         - Click on the button above<br/>
                         - Let us a message<br/>
-                        - We will contact you for a meeting<br/>
-                        And soon, you’ll be part of the Force too !</strong></h2>
+                        We will contact you for a meeting<br/>
+                        <hr/>
+                        And soon, you’ll be part of the <p class="force_contact_text">Force</p></strong></h2>
             </div>
 
         </div>
