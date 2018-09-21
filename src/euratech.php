@@ -120,7 +120,7 @@
                     <div class="card-body text-dark">
                         <h5 class="card-title map">Dark Code School</h5>
                         <div class="card-text h-100 align-items-center">
-                            <address>EuraDarkNologie</strong>
+                            <address>EuraDarkNologie
                                 <br/>
                                 Start the treasure hunt.
                                 <br/>
