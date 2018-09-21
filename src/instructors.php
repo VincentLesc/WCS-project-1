@@ -22,7 +22,7 @@
             <div class="row text-center justify-content-between">
                 <!-- Olivier -->
                 <div class="col-md-4">
-                    <div class="card mb-3">
+                    <div class="card mb-3 shadow">
                         <img class="card-img-top olivierImg" src="../public/Images/instructors/olivier.jpg" alt="Olivier">
 
                         <div class="card-body">
@@ -35,7 +35,7 @@
                 </div>
                 <!-- Gaëtan -->
                 <div class="col-md-4">
-                    <div class="card mb-3">
+                    <div class="card mb-3 shadow">
                         <img class="card-img-top gaetanImg" src="../public/Images/instructors/gaetan.jpg" alt="Gaetan">
                         <div class="card-body">
                             <h5 class="card-title">Gaëtan</h5>
@@ -47,7 +47,7 @@
                 </div>
                 <!-- Loïc -->
                 <div class="col-md-4">
-                    <div class="card mb-3">
+                    <div class="card mb-3 shadow">
                         <img class="card-img-top loicImg" src="../public/Images/instructors/loic.jpg" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Loïc</h5>
@@ -66,7 +66,7 @@
             <div class="row justify-content-between ml-1 mr-1">
                 <div class="card mt-4">
                     <div class="card-body text-center">
-                        <p>When you think you understand PHP/JS classes !</p>
+                        <p>When you think you understand everything about PHP/JS classes !</p>
                     </div>
                     <img src="../public/Images/instructors/muchtolearn.gif" alt="Fear">
                 </div>
