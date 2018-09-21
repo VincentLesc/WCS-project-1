@@ -7,17 +7,13 @@ function test_input($data) {
 }
 $err = [];
 if ($_SERVER["REQUEST_METHOD"]=="POST") {
-    if (empty("first_name") || !ctype_alpha("first_name")){
-       $err = ['first_name' => "Please enter a correct first name."];
-    } else{
-        $firstName = test_input($_POST["first_name"]);
-    }
+    $firstName = test_input($_POST["first_name"]);
     if (empty("name") || !ctype_alpha("name")){
         $err = ['name' => "Please enter a correct name. (letters only)"];
     } else{
         $name = test_input($_POST["name"]);
     }
-    if (empty("birth_date") || !(preg_match('#^([0-9]{4})([-])([0-9]{2})([-])([0-9]{2})$#', 'birth_date')){
+    if (empty("birth_date") || !(preg_match('#^([0-9]{4})([-])([0-9]{2})([-])([0-9]{2})$#', 'birth_date'))){
         $err = ['birth_date' => "Please enter a correct birth date. (letters only)"];
     } else{
         $birth_date = test_input($_POST["birth_date"]);
@@ -42,16 +38,12 @@ if ($_SERVER["REQUEST_METHOD"]=="POST") {
     } else{
         $message = test_input($_POST["message"]);
     }
-    if (empty("avatar") || '#^(../public/Images/avatar/avatar)([1-8]){1}(.gif)'{
-        $err = ['avatar' => "Error about avatar"];
-    } else{
-        $avatar = test_input($_POST["avatar"]);
-    }
+    $avatar = test_input($_POST["avatar"]);
     $date = date('Y-d-m');
 }
 
 $fp = fopen("messages.csv",'a' );
-fputcsv($fp, array($firstName, $name, $birthDate, $city, $country, $title, $message, $avatar, $date), '~', '"');
+fputcsv($fp, array($firstName, $name, $birth_date, $city, $country, $title, $message, $avatar, $date), '~', '"');
 fclose($fp);
 
 header('Location: guestbook.php');
