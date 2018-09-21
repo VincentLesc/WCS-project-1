@@ -8,7 +8,7 @@ $userMsg = trim(stripcslashes(htmlspecialchars($_POST['userMessage'])));
 
 $from = 'Dark Code School Contact Form';
 
-$to = 'vladimirsolovyev9@gmail.com';
+$to = 'vinchent.maureen@gmail.com';
 
 $subject = 'Just a message';
 
