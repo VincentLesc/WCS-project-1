@@ -47,7 +47,7 @@ h2, h1, .dark_contact_text {
 	src : url(../Fonts/Supermarketed.otf);
 }
 
-.contact_text, p, label {
+.contact_text, .card-title.map, p, label, address {
 	font-family : Supermarketed, sans-serif;
 }
 

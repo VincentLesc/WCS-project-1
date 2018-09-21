@@ -111,13 +111,13 @@
         </div>
         <div class="row pb-4 justify-content-between mb-3">
             <div class="col-md-7">
-                <img src="../public/Images/euratech/map.png" alt="Map for EuraDarkNologie situation" class="img-fluid">
+                <img src="../public/Images/euratech/mapresize.png" alt="Map for EuraDarkNologie situation" class="img-fluid">
             </div>
             <div class="col-md-5">
                 <div class="card h-100">
                     <div class="card-header text-white bg-dark" id="location">Location</div>
                     <div class="card-body text-dark">
-                        <h5 class="card-title">Dark Code School</h5>
+                        <h5 class="card-title map">Dark Code School</h5>
                         <div class="card-text h-100 align-items-center">
                             <address>EuraDarkNologie</strong>
                                 <br/>
