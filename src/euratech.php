@@ -7,7 +7,7 @@
     <meta name="author" content="Vincent Leschaeve">
 
 
-    <title>EuraDarkNologie</title>
+    <title>DarkCodeSchool-EuraDarkNologie</title>
     <link rel="shortcut icon" href="../public/Images/favicon.ico">
     <link rel="stylesheet" href="../public/CSS/bootstrap.min.css">
     <link rel="stylesheet" href="../public/CSS/style.css">
@@ -18,8 +18,10 @@
 
 <section id="euraslider">
     <div class="container">
-        <div class="row p-4 justify-content-center">
-            <h1>EuraDarkNologie</h1>
+        <div class="row p-4">
+            <div class="col-12 text-center">
+            <h1 class="euratitle">EuraDarkNologie</h1>
+            </div>
         </div>
         <div class="row p-3">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -105,7 +107,7 @@
 <section id="locate">
     <div class="container">
         <div class="row p-4 justify-content-center">
-            <h2>Find us at EuraDarkNologie !</h2>
+            <h2 class="euratitle">Find us at EuraDarkNologie !</h2>
         </div>
         <div class="row pb-4 justify-content-between mb-3">
             <div class="col-md-7">

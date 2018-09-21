@@ -162,4 +162,7 @@ h2, nav, h1, footer, .dark_contact_text, #home_presentation_section .sectiontitl
 		width:178px;
 		margin-top:1%;
 	}
+	.euratitle {
+		font-size: 1.75rem;
+	}
 }
