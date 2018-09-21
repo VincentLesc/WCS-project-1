@@ -1,20 +1,30 @@
 <?php
 
-     $userName = $_POST['userName'];
-     
-     $userEmail = $_POST['userEmail'];
-     
-     $userMsg = $_POST['userMessage'];
-     
-     $from = 'WCS Contact Form';
-     
-     $to = 'vladimirsolovyev9@gmail.com';
+$userName = trim(stripcslashes(htmlspecialchars($_POST['userName'])));
 
-     $subject = 'Email sent from WCS site\'s contact form';
-     
-     mail($to, $subject, $userMsg, $from);
+$userEmail = trim(stripcslashes(htmlspecialchars($_POST['userEmail'])));
+
+$userMsg = trim(stripcslashes(htmlspecialchars($_POST['userMessage'])));
+
+$from = 'Dark Code School Contact Form';
+
+$to = 'vladimirsolovyev9@gmail.com';
+
+$subject = 'Just a message';
+
+$emailMsg = "";
+
+$emailMsg .= "Message sent from: " . $from . " From a user: " . $userName . " " . $userEmail . " MESSAGE: " . $userMsg;
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+
+    if(isset($userName) && isset($userEmail) && isset($userMsg)) {
+        mail($to, $subject, $emailMsg, $from);
+
+        header("Location: form.php");
+    }
+} else {
 
     header("Location: form.php");
-
-
+}
 ?>
