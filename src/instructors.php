@@ -28,7 +28,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Olivier</h5>
                             <p class="card-text text-justify">
-                                Olivier Trentesaux is the Campus Manager of the Dark Code School of Lille. The Master of the Force, it's him ! 50 years, quite handsome... Well we're not here to flatter him but let's recognize that having a Campus Manager like him it's quite pleasant ! He always stays in the right side of the Force, except when he plays tennis table but it is another story and you may discover it very soon !
+                                Olivier Trentesaux is the <strong>Campus Manager</strong> of the Dark Code School of Lille. The Master of the Force, it's him ! 50 years, <strong>quite handsome</strong>... Well we're not here to flatter him but let's recognize that having a Campus Manager like him it's quite pleasant ! He always stays in the <strong>right side</strong> of the <strong>Force</strong>, except when he plays tennis table but it is another story and you may discover it very soon !
                             </p>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Gaëtan</h5>
                             <p class="card-text text-justify">
-                                Gaëtan Rolé-Dubruille is the PHP instructor of the Dark Code School of Lille. Even if he looks like a little child, he can be a beast in coding ! Some days he is a kind Jedi, some days he is like Dark Vador, it depends on his mood but he's always there to help you. Well sometimes he punches us if we don't succeed in solving algorithms or if you beat him at ping pong but, hush, don't tell him that you know ok ?
+                                Gaëtan Rolé-Dubruille is the PHP instructor of the Dark Code School of Lille. Even if he looks like a <strong>little child</strong>, he can be a beast in coding ! Some days he is a kind Jedi, some days he is like <strong>Dark Vador</strong>, it depends on his mood but he's always there to help you. Well sometimes he punches us if we don't succeed in solving algorithms or if you beat him at ping pong but, hush, don't tell him that you know ok ?
                             </p>
                         </div>
                     </div>
@@ -52,7 +52,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Loïc</h5>
                             <p class="card-text text-justify">
-                                Loïc Brassart is the JavaScript instructor of the Dark Code School of Lille. He is a Wookiee, a tall hirsute biped and intelligent species from the planet Kashyyyk. Loïc is the quiet Force, sweetness and kindness define him. He loves participating in work sessions and drinking beer after work. We don't understand everything he says but he is careful with his students and allows us to make braids with his beard.
+                                Loïc Brassart is the JavaScript instructor of the Dark Code School of Lille. He is a Wookiee, a tall <strong>hirsute</strong> biped and intelligent species from the planet Kashyyyk. Loïc is the quiet Force, <strong>sweetness</strong> and <strong>kindness</strong> define him. He loves participating in work sessions and <strong>drinking</strong> beer after work. We don't understand everything he says but he is careful with his students and allows us to make braids with his beard.
                             </p>
                         </div>
                     </div>
