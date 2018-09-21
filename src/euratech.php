@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Wild Code School humoristic website">
+    <meta name="keywords" content="EuraDarkNologie Dark Code School">
     <meta name="author" content="Vincent Leschaeve">
 
-
     <title>DarkCodeSchool-EuraDarkNologie</title>
+
     <link rel="shortcut icon" href="../public/Images/favicon.ico">
     <link rel="stylesheet" href="../public/CSS/bootstrap.min.css">
     <link rel="stylesheet" href="../public/CSS/style.css">
@@ -20,7 +21,7 @@
     <div class="container">
         <div class="row p-4">
             <div class="col-12 text-center">
-            <h1 class="euratitle">EuraDarkNologie</h1>
+                <h1 class="euratitle">EuraDarkNologie</h1>
             </div>
         </div>
         <div class="row p-3">
