@@ -72,11 +72,11 @@
             </div>
         </div>
         <div class="row">
-            <div class="col col-lg-4 offset-lg-4">
+            <div class="col">
                 <h2 class="contact_text"><strong>You want to join <p class="dark_contact_text">Dark Code School’s Force</p><hr/>
-                        - Click on the button above<br/>
-                        - Let us a message<br/>
-                        We will contact you for a meeting<br/>
+                        Click on the button above<br/>
+                        Let us a message<br/>
+                        You will be contacted for a meeting<br/>
                         <hr/>
                         And soon, you’ll be part of the <p class="force_contact_text">Force</p></strong></h2>
             </div>
