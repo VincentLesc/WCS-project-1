@@ -1,20 +1,22 @@
-WCS - Project : humoristic presentation of the WCS.
+# WCS - Project : humoristic presentation of the WCS.
 
-Collaborators :
-- Maureen Vinchent : https://github.com/maureenVt
-- Vincent Lescaeve : https://github.com/VincentLesc
-- Florian Radureau : https://github.com/florianRadureau
-- Fleur Castel : https://github.com/FleurCstl
-- Vladimir Solovev : https://github.com/VladiloveSolocute
+## Collaborators :
+- Fleur Castel -  Profil Github : [FleurCstl](http://github.com/FleurCstl)
+- Vincent Lescaeve - Profil GitHub : [VincentLesc](http://github.com/VincentLesc)
+- Florian Radureau - Profil GitHub : [florianRadureau](http://github.com/florianRadureau)
+- Vladimir Solovev - Profil GitHub : [VladiloveSolocute](http://github.com/VladiloveSolocute)
+- Maureen Vinchent - Profil GitHub : [maureenVt](http://github.com/maureenVt)
 
-Project :
-- Creating the WCS website, using humor.
+## Project :
+- Creating the Wild Code School website using humor.
 
-Techs :
+## Techs :
 - PHP
 - JQuery
 - JavaScript
-- HTML 5
-- CSS 3
-- Bootstrap 4
+- HTML5
+- CSS3
+- Bootstrap4
 
+## See our project :
+http://vladimirpimkie.000webhostapp.com/test/public/
